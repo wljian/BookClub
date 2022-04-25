@@ -1,6 +1,5 @@
 package com.person.leetcode2;
 
-import java.util.List;
 import java.util.Optional;
 
 public class Solution1 {
